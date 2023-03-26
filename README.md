@@ -28,28 +28,26 @@ Welcome to Innovative Projects for Software Engineers! This is a curated list of
 
 ### Web Development <a name="web-development"></a>
 
-- [Build a social network using MERN stack](./web-development/mern-social-network.md)
-- [Build a e-commerce website with React and Stripe](./web-development/react-ecommerce-stripe.md)
+- [Build a social media platform](./web-development/mern-social-network.md)
+- [Build a e-commerce website with online payments](./web-development/react-ecommerce-stripe.md)
 
 ### Mobile Development <a name="mobile-development"></a>
 
-- [Build a mobile app with React Native and Firebase](./mobile-development/react-native-firebase-app.md)
-- [Build a location-based app with Flutter and Google Maps API](./mobile-development/flutter-location-based-app.md)
+- [Build a location-based reminder app](./mobile-development/flutter-location-based-app.md)
 
 ### Machine Learning <a name="machine-learning"></a>
 
-- [Build a image classification model using TensorFlow](./machine-learning/tensorflow-image-classification.md)
+- [Build an image classification model](./machine-learning/tensorflow-image-classification.md)
 - [Build a chatbot with natural language processing](./machine-learning/nlp-chatbot.md)
 
 ### Data Science <a name="data-science"></a>
 
-- [Build a data visualization dashboard with Python and Dash](./data-science/python-dash-dashboard.md)
-- [Analyze and visualize Covid-19 data with Python](./data-science/covid-19-analysis.md)
+- [Build a data visualization dashboard](./data-science/python-dash-dashboard.md)
 
 ### Cybersecurity <a name="cybersecurity"></a>
 
 - [Build a password manager with AES encryption](./cybersecurity/password-manager.md)
-- [Build a network intrusion detection system with Snort](./cybersecurity/snort-ids.md)
+- [Build a network intrusion detection system](./cybersecurity/snort-ids.md)
 
 ## Contributing
 
