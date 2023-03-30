@@ -28,14 +28,14 @@ Welcome to Innovative Projects for Software Engineers! This is a curated list of
 
 ### Web Development <a name="web-development"></a>
 
-- [Build a social media platform](./web-development/mern-social-network.md)
-- [Build a e-commerce website with online payments](./web-development/react-ecommerce-stripe.md)
-- [Recipe sharing platform with user-generated content](./web-development/recipe-sharing-platform.md)
-- [Online scheduling and booking system for a service-based business](./web-development/online-booking-system.md)
-- [Interactive real-time chat application](./web-development/real-time-chat-app.md)
-- [Music streaming platform with user-generated playlists and social sharing features](./web-development/music-streaming-platform.md)
-- [Educational platform with interactive courses and quizzes](./web-development/educational-platform.md)
-- [Travel booking platform with personalized recommendations based on user preferences](./web-development/travel-booking-platform.md)
+- [Build a social media platform](./Projects/Web%20Development/Social%20Network.md)
+- [Build a e-commerce website with online payments](./Projects/Web%20Development/E-commerce.md)
+- [Recipe sharing platform with user-generated content](./Projects/Web%20Development/Recipe%20Sharing.md)
+- [Online scheduling and booking system for a service-based business](./Projects/Web%20Development/Online%20Scheduling.md)
+- [Interactive real-time chat application](./Projects/Web%20Development/Chat%20App.md)
+- [Music streaming platform with user-generated playlists and social sharing features](./Projects/Web%20Development/Music%20Streaming.md)
+- [Educational platform with interactive courses and quizzes](./Projects/Web%20Development/E-Learning.md)
+- [Travel booking platform with personalized recommendations based on user preferences](./Projects/Web%20Development/Chat%20App.md)
 
 
 ### Mobile Development <a name="mobile-development"></a>
